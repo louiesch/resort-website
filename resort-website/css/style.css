@@ -5,3 +5,8 @@ h1 {
 h2 {
   text-align:left;
 }
+
+img {
+  max-width:100%;
+  max-height:auto;
+}
